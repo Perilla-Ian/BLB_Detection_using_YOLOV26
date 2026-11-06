@@ -1,3 +1,6 @@
 # BLB Detection using YOLOv26n 
 
 ## This is a study under the International Rice Research Institute. This focuses on detection of Bacterial Leaf Blight (BLB) using YOLOv26n. The model utilizes RGB images captured using UAV. Additionally, the machine learning algorithm detects the severity and occurrence of BLB. The repository contains the data preprocessing, training, and the dataset used in this study. 
+
+
+Doi: 10.21203/rs.3.rs-11163942/v1
